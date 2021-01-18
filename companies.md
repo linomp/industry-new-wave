@@ -29,6 +29,9 @@
 ### Ericsson Estonia
 - [Signed deal with ABB for a fully automated flexible robot cell solution in Tallinn 5G radio factory](https://www.ericsson.com/en/news/2019/4/ericsson-and-abb-5g-smart-manufacturing-estonia)
 - "Enabled by 5G and ultra-low latency connectivity, smart manufacturing is widely expected to be deployed exponentially over the coming years"
+- "A private cellular network in the factory is the first step towards exploiting the value, efficiencies and gains of Industry 4.0 concepts and use cases."
+- [The world's first cellular IoT-based Smart Factory](https://www.ericsson.com/en/cases/2018/industry-4-0)
+- [SKF and the Industrial Internet of Things](https://www.ericsson.com/en/cases/2017/skf)
 
 ### ABB
 - __ABB Ability__:  remotely monitor, troubleshoot and optimize robot systems.
