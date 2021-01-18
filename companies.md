@@ -38,7 +38,16 @@
 - __ABB Estonian branch__: motors and generators. 
 
 ### Nordic Automation Systems
-- Manufacture of sensors, IoT Hub (?)
-
+- Manufacture of sensors, IoT Hub (client to access LoRaWAN gateways - ???)
 
 ### ITL
+- Estonian Association of Information Technology and Telecommunications
+- __Production Digitalisation__: co-application of different modern information technology solutions in production to increase revenue or decrease costs.
+- __Doris Põld__: Estonian ICT Cluster manager, Industry 4.0 contact. {+372 511 4411, doris.pold@itl.ee}
+
+#### [Pilot Projects](https://www.itl.ee/en/industry/)
+- Estronics-Taltech collaboration. Smart product pilot projects with the aim of proving that it is possible to use digitalisation to change the business model in traditional industries. 
+- __Ragnarok 2.0__: Work suit prototype. Speech recognition, GPS-positioning, fall detection, activity monitoring. Involved Protex Balti, textile company. Mobile application by Wazombi Labs (Tartu), monitoring with Ericsson Voyager (??).
+  ![img](./img/itl1.png)
+- __Smart Trailer__: reserve and rent trailers via a mobile app, & monitor certain indicators of the trailer (what for??).
+  ![img](./img/itl2.jpg)

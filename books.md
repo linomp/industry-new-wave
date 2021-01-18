@@ -2,4 +2,4 @@
 
 ## Industrial Automation - Frank Lamb
 
-### Ch 1
+### Ch 1 (in progress)
