@@ -51,6 +51,6 @@
 #### [Pilot Projects](https://www.itl.ee/en/industry/)
 - Estronics-Taltech collaboration. Smart product pilot projects with the aim of proving that it is possible to use digitalisation to change the business model in traditional industries. 
 - __Ragnarok 2.0__: Work suit prototype. Speech recognition, GPS-positioning, fall detection, activity monitoring. Involved Protex Balti, textile company. Mobile application by Wazombi Labs (Tartu), monitoring with Ericsson Voyager (??).
-  ![img](./img/itl1.png)
+  ![img](./img/itl1.PNG)
 - __Smart Trailer__: reserve and rent trailers via a mobile app, & monitor certain indicators of the trailer (what for??).
   ![img](./img/itl2.jpg)
