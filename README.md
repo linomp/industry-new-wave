@@ -1,5 +1,7 @@
 # Industry 4.0 
 
+[Research](./research.md)
+
 [Companies](./companies.md)
 
 [Papers](./papers.md)
